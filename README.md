@@ -4,4 +4,6 @@ simple intro how to local set the latex rendering using VS code - to use git unl
 
 ## https://marketplace.visualstudio.com/items?itemName=ms-iot.vscode-ros
 
-## https://github.com/James-Yu/LaTeX-Workshop/wiki/Install
+## https://github.com/James-Yu/LaTeX-Workshop/wiki/Install 
+### make sure you brew install perl beforehand
+
